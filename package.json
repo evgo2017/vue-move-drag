@@ -1,0 +1,26 @@
+{
+  "name": "vue-move-drag",
+  "version": "1.0.0",
+  "description": "Move/Drag a DOM to another position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evgo2017/vue-move-drag.git"
+  },
+  "keywords": [
+    "vue",
+    "move",
+    "drag",
+    "directive"
+  ],
+  "author": "evgo2017",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evgo2017/vue-move-drag/issues"
+  },
+  "private": false,
+  "homepage": "https://github.com/evgo2017/vue-move-drag"
+}

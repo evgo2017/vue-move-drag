@@ -19,8 +19,8 @@ https://evgo2017.com/repo/vue-move-drag
 npm install vue-move-drag
 
 // main.js
-import vue-move-drag from 'vue-move-drag'
-Vue.use(vue-move-drag)
+import vueMoveDrag from 'vue-move-drag'
+Vue.use(vueMoveDrag)
 ```
 
 ```vue
